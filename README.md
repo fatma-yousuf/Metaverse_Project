@@ -1,6 +1,6 @@
 # Metaverse_Project
 
-Our project was how to use the Metaverse technology to discover a disease of the brain and nerves using Ai technology and directing the patient as soon as possible to a doctor with his diagnosis.
+Our project was how to use the Metaverse technology to discover a disease of the brain and nerves using AI and VR technology and directing the patient as soon as possible to a doctor with his diagnosis.
 
 ### This is Link for our project:
 
