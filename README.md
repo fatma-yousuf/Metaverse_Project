@@ -4,9 +4,14 @@ Our project was how to use the Metaverse technology to discover a disease of the
 
 ## Our team : pationate (Sohag)
 
-### fatma yousuf 
+### Fatma Yousuf 
 
-### rahma elsayed 
+### Rahma Elsayed 
 
-### Reham Mohamed Fadlallah
+### Reham Mohamed 
 
+## The Metaverse marathon prepared by :
+
+# Technology Innovation & Entrepreneurship Center (TIEC)
+
+### We reached the final stage of the qualifiers.
